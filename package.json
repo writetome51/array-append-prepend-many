@@ -1,0 +1,30 @@
+{
+  "name": "@writetome51/array-append-prepend-many",
+  "version": "0.0.1",
+  "description": "Functions appendMany(values, array) and prependMany(values, array), which are alternatives to Array.prototype.push(...values) and Array.prototype.unshift(...values)",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/array-append-prepend-many.git"
+  },
+  "keywords": [
+    "array",
+    "modify",
+    "manipulation",
+    "append",
+    "appending",
+    "prepend",
+    "prepending",
+    "push",
+    "unshift",
+    "items"
+  ],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writetome51/array-append-prepend-many/issues"
+  },
+  "homepage": "https://github.com/writetome51/array-append-prepend-many#readme"
+}
