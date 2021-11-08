@@ -1,6 +1,6 @@
 {
   "name": "@writetome51/array-append-prepend-many",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Functions appendMany(values, array) and prependMany(values, array), which are alternatives to Array.prototype.push(...values) and Array.prototype.unshift(...values)",
   "type": "module",
   "main": "index.js",

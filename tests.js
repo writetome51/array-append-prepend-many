@@ -63,7 +63,7 @@ console.log(Date.now() - ms);
 
 arr = [];
 ms = Date.now();
-for (let i=0; i<190000; ++i){
+for (let i=0; i<19900; ++i){
 	arr.unshift(0,0,0);
 }
 console.log(Date.now() - ms);
@@ -72,7 +72,7 @@ let firstLen = arr.length;
 
 arr = [];
 ms = Date.now();
-for (let i=0; i<190000; ++i){
+for (let i=0; i<19900; ++i){
 	arr.splice(0,0, 0,0,0);
 }
 console.log(Date.now() - ms);
